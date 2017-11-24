@@ -1,3 +1,7 @@
+Version 1.12.1
+-------------
+o Fixing a hashing issue in unit test on protein inference
+
 Version 1.11.1
 -------------
  o Switch from mclapply to parLapply in filter optimizaition.
